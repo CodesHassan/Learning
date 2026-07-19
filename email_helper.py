@@ -14,7 +14,7 @@ class EmailSchema(BaseModel):
 
 conf = ConnectionConfig(
     MAIL_USERNAME="hassansabri172@gmail.com",
-    MAIL_PASSWORD="bcls iuyp hlof aqda",
+    MAIL_PASSWORD="*****",
     MAIL_FROM="hassansabri172@gmail.com",
     MAIL_PORT=587,
     MAIL_SERVER="smtp.gmail.com",
